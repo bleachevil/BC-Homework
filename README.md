@@ -149,7 +149,7 @@ if st.button("Validate Chain"):
 ```
 ## Testing result
 ### enter the data
-![]()
+![](https://github.com/bleachevil/BC-Homework/blob/main/Picture/1.png?raw=true)
 
 ### result
-![]()
+![](https://github.com/bleachevil/BC-Homework/blob/main/Picture/2.png?raw=true)
